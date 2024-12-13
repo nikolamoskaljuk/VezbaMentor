@@ -50,9 +50,7 @@ img {
 .logo-header .logo-part {
   color: #2e2f42;
 }
-.page-footer .logo-part {
-  color: #f4f4fd;
-}
+
 
 /* xxxxx NAV xxxxx */
 
@@ -208,5 +206,8 @@ button {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
+.page-footer .logo-part {
   color: #f4f4fd;
 }
