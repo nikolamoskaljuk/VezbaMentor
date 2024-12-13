@@ -10,6 +10,7 @@ ol {
 a {
   text-decoration: none;
 }
+/* xxxxx HEADER xxxxx */
 .page-hader {
   background-color: #fff;
 }
@@ -52,6 +53,7 @@ a {
 .contacts-link:focus {
   color: #404bbf;
 }
+/* xxxxx SOLUTIONS xxxxx */
 .solutions {
   background-color: #2e2f42;
 }
@@ -79,6 +81,7 @@ button {
 .btn-order:focus {
   background-color: #404bbf;
 }
+/* xxxxx BENEFITS xxxxx */
 .benefits-title {
   font-weight: 500;
   font-size: 20px;
@@ -93,6 +96,7 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
 }
+/* xxxxx TEAM xxxxx */
 .team {
   background-color: #f4f4fd;
 }
@@ -122,6 +126,7 @@ button {
   letter-spacing: 0.02em;
   color: #434455;
 }
+/* xxxxx PORTFOLIO xxxxx */
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
@@ -146,6 +151,7 @@ button {
 
   color: #434455;
 }
+/* xxxxxxxxxx FOOTER xxxxxxxxxx */
 .page-footer {
   background-color: #2e2f42;
 }
